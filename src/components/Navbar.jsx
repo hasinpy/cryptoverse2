@@ -40,4 +40,5 @@ const Navbar = () => {
   );
 };
 
+// Navbar.jsx
 export default Navbar;
